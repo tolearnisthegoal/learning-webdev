@@ -1,0 +1,26 @@
+.Block{
+    background-color: aqua;
+    padding: 12px;
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+
+.block-one{
+    background-color: red;
+}
+
+span{
+    background-color: yellow;
+    margin-top: 400px;
+    padding: 24px;
+
+}
+
+
+.Box{
+    display: inline-block;
+    width: 120px;
+    height: 120px;
+    background-color: brown;
+    margin-top: 500px;
+}
