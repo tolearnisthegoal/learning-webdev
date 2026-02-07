@@ -1,0 +1,34 @@
+.pageholder{
+    display: flex;
+    width: 95vw;
+    height: 45vw;
+    flex-direction: column;
+
+
+    /* justify-content: center; */
+    flex: 1;
+    border: 5px solid burlywood;
+}
+
+.header{
+    display: flex;
+    height: 80px;
+
+    justify-content: center;
+}
+
+
+.main-content{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: end;
+    align-self: center;
+}
